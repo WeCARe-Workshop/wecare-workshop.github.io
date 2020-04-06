@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-scholar
 
 #scholar:
