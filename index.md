@@ -9,7 +9,7 @@ layout: page
 
 ## Background
 Social cues play an essential role in resolving road situations between car drivers and vulnerable road users (VRUs).
-However, this interaction might be more challenging in the presence of automated vehicles (AVs) . Previous works focused on addressing this issue using external Human-Machine Interfaces (eHMIs, see \autoref{fig:ehmis})~\cite{colley2019including, LoeckenEHMIs} or by simulating social interactions via eye contact or gestures~\cite{rasouli2017understanding}.
+However, this interaction might be more challenging in the presence of automated vehicles (AVs) {% cite fagnant2015preparing %}. Previous works focused on addressing this issue using external Human-Machine Interfaces (eHMIs, see \autoref{fig:ehmis})~\cite{colley2019including, LoeckenEHMIs} or by simulating social interactions via eye contact or gestures~\cite{rasouli2017understanding}. 
 Such approaches primarily focus on visual stimuli (e.g., \cite{Hollander:2018:PDP:3282894.3282928, TT-Nguyen-2019-designing}) and do not comply with Universal Design principles (see \cite{connell1997principles}), which excludes people with visual limitations~\cite{colley2019including}. 
 In general, several groups, such as children, blind people, or older adults, are underrepresented in empirical evaluations of eHMI concepts for interaction between AVs and VRUs. 
 We aim to develop inclusive solutions with the help of this workshop to make the traffic accessible for them. 
