@@ -1,0 +1,19 @@
+main:
+  - title: "Background"
+    url: /Background/
+  - title: "Participate"
+    url: /Participate/
+  - title: "Outcome"
+    url: /Outcome/
+  - title: "Organizers"
+    url: /Organizers/
+  - title: "References"
+    url: /References/
+  - title: "Imprint"
+    url: /Imprint/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+
+  
