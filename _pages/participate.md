@@ -78,9 +78,9 @@ Potential topics to be discussed at the workshop include, but are not limited to
 * **Submissions**: July, 2nd
 * **Notifications**: July, 23rd
 * **Camera Ready Versions**: August, 7th
-* **Early Registration**: August, 14th??
+<!-- * **Early Registration**: August, 14th?? -->
 <!-- * **Submission of Presentations**: Ocotber, 1st -->
-* **Workshop Day**: Ocotber, 5th?
+* **Workshop Day**: October, 5th
 
 
 
@@ -94,24 +94,3 @@ Afterward, participants are split into groups of four people to prototype matchi
 After 50 minutes, each group has 10 minutes to present their prototype(s) before the afternoon break (Presentations).
 
 In the last part, we want to focus on the results of the workshop and the next steps (Results). The composed challenges and solutions are split into clusters and become revisited in groups for 15 minutes. Afterward, the relevance of each research opportunity / challenge is discussed in a plenum (Plenum Discussion). The goal is to reach a common understanding of research gaps and opportunities as well as requirements for inclusive AV-VRU interaction. The last 30 minutes are dedicated to wrapping up the workshop’s outcomes, plan the next steps, and discuss where to publish possible results (Wrap Up). Furthermore, we aim to agree on a platform for future exchanges of workshop participants, e.g., a Slack team.
-
-
-
-<!-- | Time        | Topic                     |
-|-------------|---------------------------|
-|    09:00    |    Opening                |
-|    09:15    |    Overview on eHMIs      |
-|    09:30    |    Paper Presentations    |
-|    10:30    |    **Morning Break**      |
-|    10:50    |    World Café             |
-|    11:50    |    Presentations          |
-|    12:35    |    Research Challenges    |
-|    12:50    |    **Lunch Break**        |
-|    13:50    |    Discussion             |
-|    14:10    |    Prototyping            |
-|    15:00    |    Presentations          |
-|    15:30    |    **Afternoon Break**    |
-|    15:50    |    Results                |
-|    16:05    |    Plenum Discussion      |
-|    16:30    |    Wrap-Up                |
-|    17:00    |    **End.**               | -->
