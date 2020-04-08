@@ -58,7 +58,7 @@ This workshop welcomes researchers and practitioners with interest in accessible
 
 ## Submission 
 Participants are required to submit position papers between two and four pages, not counting references, in the [2019 CHI Extended Abstract template](http://chi2019.acm.org/authors/chi-proceedings-format/#TOC-CHI-Extended-Abstracts-Format). 
-The generated PDF should be submitted via (TBD!)
+The generated PDF should be submitted as e-mail to "wecare2020@pm.me". *Please contact is if you do not receive a confirmation e-mail within 24 hours*
 
 Submissions **need not to be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted papers will be published online** before the beginning of the workshop. 
 
@@ -72,7 +72,6 @@ Potential topics to be discussed at the workshop include, but are not limited to
 * Guidelines for inclusive design from related domains, such as
   * Mobile Human-Computer Interaction
   * Human-Robot Interaction 
-* ??????
 
 ### Deadlines 
 * **Submissions**: July, 2nd
