@@ -2,7 +2,7 @@ main:
   - title: "News"
     url: /News/
   - title: "Participate"
-    url: /
+    url: /#audience
   - title: "Background"
     url: /Background/
   - title: "Outcome"

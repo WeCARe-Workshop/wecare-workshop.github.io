@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "Participate"
+title: "WeCARe"
 layout: single
 classes: wide
-author_profile: true
+author_profile: false
 
 sidebar: 
 - title: "Schedule"
@@ -19,14 +19,21 @@ gallery:
     alt: "Created traffic scenario during a prototyping session."
     title: "Created traffic scenario during a prototyping session."
 ---
+<p> <span style="font-size: 1.5em">Workshop on Inclusive Communication between Automated Vehicles and Vulnerable Road Users </span><br/>
+In conjunction with MobileHCI 2020, October 5th, Oldenburg, Germany.</p>
 
-***Note:** Participants must submit a position paper before the workshop. See "[Submission](#submission)" for more details.*
+**Note:** Participants must submit a position paper before the workshop. See [Submission](#submission) for more details.
+{: .notice--danger}
+
+**Abstract:** Automated vehicles are expected to become a part of the road traffic in the near future. This upcoming change raises concerns on how human road users, e.g., cyclists or pedestrians, would interact with them to ensure safe communication on the road. 
+Previous work focused primarily on the scenario in which a young adult without impairments crosses a street in front of an automated vehicle. Several road user groups, such as children, seniors, or people with special needs, in roles of pedestrians and cyclists, are not considered in this scenario. On top of this, cultural differences are rarely considered. To ensure that future traffic is safe and accessible for all citizens, we aim to address inclusive communication between automated vehicles and vulnerable road users. 
+In this workshop, we will discuss and exchange methods, tools, and scenarios applicable for inclusive communication, identify the most relevant research gaps, and connect people for future collaborations. 
+
 
 <!-- {% include figure image_path="/assets/images/morningcafe.jpg" alt="A snapshot of a table during a World Café." caption="A snapshot of a table during a World Café." %} -->
 
 {% include gallery caption="Examples for the interactive parts of the workshop: a *World Café* (left) and the result of a *quick prototype* (right)." %}
 
-This workshop invites people from different cultures, backgrounds, and affiliations to explore the interplay of automated vehicles and other road users. The workshop emphasizes cultural differences, diversity, and inclusive design solutions for the interaction of AVs and VRUs. To this end, there are presentations, hands-on activities, and group discussions planned. The organizers will be available throughout the sessions to support participants during the activities. An overview of the schedule is presented on the left sidebar. 
 
 <!-- | Time        | Topic                     |
 |-------------|---------------------------|
@@ -55,7 +62,10 @@ We intend to achieve the following goals with this workshop:
 4.	Establish communication with workshop attendees for future (international) collaborations.
 
 ## Audience
-This workshop welcomes researchers and practitioners with interest in accessible technology, interactive technologies for children, seniors, or people with impairments, or automotive user interfaces. Specifically, we want to reach those developing mobile interfaces for traffic participants (e.g., pedestrians, or cyclists), inclusive interfaces (addressing, e.g., visually impaired people), or external human-machine interfaces for AVs. We will promote this workshop using a dedicated website with information about it. 
+This workshop invites people from different cultures, backgrounds, and affiliations to explore the interplay of automated vehicles and other road users. 
+The workshop emphasizes cultural differences, diversity, and inclusive design solutions for the interaction of AVs and VRUs. 
+<!-- The organizers will be available throughout the sessions to support participants during the activities. An overview of the schedule is presented on the left sidebar.  -->
+We welcome researchers and practitioners with interest in accessible technology, interactive technologies for children, seniors, or people with impairments, or automotive user interfaces. Specifically, we want to reach those developing mobile interfaces for traffic participants (e.g., pedestrians, or cyclists), inclusive interfaces (addressing, e.g., visually impaired people), or external human-machine interfaces for AVs. We will promote this workshop using a dedicated website with information about it. 
 <!-- We will reach out to the community via social media channels (e.g., Twitter, Facebook, or LinkedIn), mailing lists (e.g., GI, or ACM SIGCHI), and at the AutomotiveUI conference. We expect to have 15 to 20 attendees.  -->
 
 ## Submission 
@@ -86,6 +96,7 @@ Potential topics to be discussed at the workshop include, but are not limited to
 
 
 ## Workshop Organization
+<!-- To this end, there are presentations, hands-on activities, and group discussions planned.  -->
 We begin with a round of introduction, a brief presentation of the current state of research regarding automated vehicles and vulnerable road user interaction (Overview on eHMIs), and 4 minutes Pecha-Kucha style [3] presentations of the position papers by participants (Paper Presentations).
 
 Between the first break and lunch, we want to establish a common understanding of the key challenges in current AV-VRU research. We will revise open questions from submitted workshop papers to derive topics for a World Café (see above Figure, left). Thus, groups of participants discuss a topic for twenty minutes before switching to another table. Possible subjects might be: “technology for AV-VRU communication including mobile devices”, “identification of cultural differences in traffic”, or “inclusive interfaces for impaired people”. After 60 minutes, each group presents the outcome of the table they are sitting at in about 15 minutes, including a 5 minutes discussion (Presentation). Afterward, the participants will be asked to write down their most important research challenges, and the workshop organizers will collect and cluster the presented findings (Research Challenges).
