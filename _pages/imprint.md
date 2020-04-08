@@ -1,6 +1,6 @@
 ---
-permalink: /Imprint/
-title: "Imprint"
+permalink: /Impressum/
+title: "Impressum"
 classes: wide
 ---
 
