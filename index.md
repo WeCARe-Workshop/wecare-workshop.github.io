@@ -70,7 +70,7 @@ We welcome researchers and practitioners with interest in accessible technology,
 
 ## Submission 
 Participants are required to submit position papers between two and four pages, not counting references, in the [2020 CHI Extended Abstract Format](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF). 
-The generated PDF should be submitted as e-mail to "wecare2020@<span style="display:none;">thisisnotpartofthedomain-</span>pm.<span style="display:none;">thisnoteither-</span>me". *Please contact us if you do not receive a confirmation e-mail within 24 hours*
+The generated PDF should be submitted as e-mail to "wecare2020@<span style="display:none;">thisisnotpartofthedomain-</span>pm.<span style="display:none;">thisnoteither-</span>me". *Please contact us if you do not receive a confirmation e-mail within 24 hours*.
 
 Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted papers will be published online** before the beginning of the workshop. 
 
