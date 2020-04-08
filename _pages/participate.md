@@ -60,11 +60,11 @@ This workshop welcomes researchers and practitioners with interest in accessible
 Participants are required to submit position papers between two and four pages, not counting references, in the [2019 CHI Extended Abstract template](http://chi2019.acm.org/authors/chi-proceedings-format/#TOC-CHI-Extended-Abstracts-Format). 
 The generated PDF should be submitted as e-mail to "wecare2020@pm.me". *Please contact is if you do not receive a confirmation e-mail within 24 hours*
 
-Submissions **need not to be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted papers will be published online** before the beginning of the workshop. 
+Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted papers will be published online** before the beginning of the workshop. 
 
 ### Workshop Themes
 Potential topics to be discussed at the workshop include, but are not limited to: 
-* Overview on current state and research gaps in research on interactions between AVs and VRUs 
+* Overview of the current state and research gaps in research on interactions between AVs and VRUs 
 * Communication concepts for underrepresented user groups, such as
   * Children 
   * People with impaired vision
@@ -74,12 +74,12 @@ Potential topics to be discussed at the workshop include, but are not limited to
   * Human-Robot Interaction 
 
 ### Deadlines 
-* **Submissions**: July, 2nd
-* **Notifications**: July, 23rd
-* **Camera Ready Versions**: August, 7th
-<!-- * **Early Registration**: August, 14th?? -->
-<!-- * **Submission of Presentations**: Ocotber, 1st -->
-* **Workshop Day**: October, 5th
+* **Submissions**: July 2nd, 2020
+* **Notifications**: July 23rd, 2020
+* **Camera-Ready Versions**: August 7th, 2020
+<!-- * **Early Registration**: August 14th??, 2020 -->
+<!-- * **Submission of Presentations**: Ocotber 1st, 2020 -->
+* **Workshop Day**: October 5th, 2020
 
 
 
