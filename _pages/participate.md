@@ -57,7 +57,7 @@ This workshop welcomes researchers and practitioners with interest in accessible
 <!-- We will reach out to the community via social media channels (e.g., Twitter, Facebook, or LinkedIn), mailing lists (e.g., GI, or ACM SIGCHI), and at the AutomotiveUI conference. We expect to have 15 to 20 attendees.  -->
 
 ## Submission 
-Participants are required to submit position papers between two and four pages, not counting references, in the [2019 CHI Extended Abstract template](http://chi2019.acm.org/authors/chi-proceedings-format/#TOC-CHI-Extended-Abstracts-Format). 
+Participants are required to submit position papers between two and four pages, not counting references, in this template: [2020 CHI Extended Abstract Format](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF). 
 The generated PDF should be submitted as e-mail to "wecare2020@pm.me". *Please contact us if you do not receive a confirmation e-mail within 24 hours*
 
 Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted papers will be published online** before the beginning of the workshop. 

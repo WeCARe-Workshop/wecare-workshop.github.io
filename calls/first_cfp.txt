@@ -78,8 +78,8 @@ workshop beyond the main conference registration fee.
 --------------------------------| SUBMISSIONS |--------------------------------
 Participants are expected to submit a position paper of two to four pages, 
 not counting references, via e-mail to wecare2020@pm.me by July 2nd 2020. 
-All submissions must follow the new CHI Extended Abstracts format:
-http://chi2019.acm.org/authors/chi-proceedings-format/#TOC-CHI-Extended-Abstracts-Format 
+All submissions must follow the new CHI Extended Abstracts format: 
+https://chi2020.acm.org/authors/chi-proceedings-format/#EAF 
 Submissions are not anonymous but reviews will be done anonymously 
 (single-blind). Each paper will receive at least two reviews. All accepted 
 papers will be published online before the beginning of the workshop. 
