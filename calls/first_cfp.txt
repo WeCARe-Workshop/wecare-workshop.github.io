@@ -102,5 +102,14 @@ Andrew L. Kun, University of New Hampshire, US
 Susanne Boll, University of Oldenburg, Germany
 Andreas Riener, Technische Hochschule Ingolstadt (THI), Germany
 
+----------------------------------| FUNDING |----------------------------------
+A. Löcken is supported by the German Federal Ministry of Transport and Digital 
+Infrastructure (BMVI) through the Automated and Connected Driving funding 
+program under Grant No. 16AVF2145F (SAVe). 
+M. Colley works within the project 'Interaction between automated vehicles and 
+vulnerable road users' (Intuitiver) funded by the Ministry of Science, Research
+and Arts of the State of Baden-Württemberg. 
+A. Kun was supported in part by NSF grant CMMI-1840085.
+
 
 Looking forward to hearing from you.
