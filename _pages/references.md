@@ -23,55 +23,33 @@ classes: wide
 Investigating the Influence of External Car Displays on
 Pedestrians’ Crossing Behavior in Virtual Reality. In
 Proceedings of the 21st International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI 2019). ACM, New York, NY, USA, 11.
-DOI:http://dx.doi.org/10.1145/3338286.3340138
+DOI: [10.1145/3338286.3340138](http://dx.doi.org/10.1145/3338286.3340138)
 17. <a name="ref17"></a> Christian P. Janssen, Linda Ng Boyle, Andrew L. Kun, Wendy Ju, and Lewis L. Chuang. 2019a. A Hidden
 Markov Framework to Capture Human–Machine Interaction in Automated Vehicles. International Journal of Human-Computer Interaction 35, 11 (2019), 947–955.
-DOI:
-http://dx.doi.org/10.1080/10447318.2018.1561789
+DOI: [10.1080/10447318.2018.1561789](http://dx.doi.org/10.1080/10447318.2018.1561789)
 18. <a name="ref18"></a> Christian P Janssen, Stella F Donker, Duncan P Brumby, and Andrew L Kun. 2019b. History and future of human-automation interaction. International Journal of Human-Computer Studies 131 (2019), 99–107.
 19. <a name="ref19"></a> Christian P. Janssen, Shamsi T. Iqbal, Andrew L. Kun, and Stella F. Donker. 2019c. Interrupted by my car? Implications of interruption and interleaving research for automated vehicles. International Journal of
-Human-Computer Studies 130 (2019), 221–233. DOI: http://dx.doi.org/10.1016/j.ijhcs.2019.07.004
+Human-Computer Studies 130 (2019), 221–233. DOI: [10.1016/j.ijhcs.2019.07.004](http://dx.doi.org/10.1016/j.ijhcs.2019.07.004)
 20. <a name="ref20"></a> Andrew L. Kun. 2018. Human-Machine Interaction for Vehicles: Review and Outlook. Foundations and Trends® in Human-Computer Interaction 11, 4 (2018), 201–293.
-DOI:http://dx.doi.org/10.1561/1100000069
+DOI: [10.1561/1100000069](http://dx.doi.org/10.1561/1100000069)
 21. <a name="ref21"></a> Shuo Li, Phil Blythe, Weihong Guo, and Anil Namdeo. 2019. Investigation of older drivers’ requirements of the human-machine interaction in highly automated vehicles. Transportation research part F: traffic psychology and behaviour 62 (2019), 546–563.
 22. <a name="ref22"></a> Andreas Löcken, Carmen Golling, and Andreas Riener. 2019.	How Should Automated Vehicles Interact with
 Pedestrians? A Comparative Analysis of Interaction
 Concepts in Virtual Reality. In Proceedings of the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI ’19).
-Association for Computing Machinery, New York, NY, USA, 262–274. DOI:
-http://dx.doi.org/10.1145/3342197.3344544
+Association for Computing Machinery, New York, NY, USA, 262–274. DOI: [10.1145/3342197.3344544](http://dx.doi.org/10.1145/3342197.3344544)
 23. <a name="ref23"></a> A. Löcken, P. Wintersberger, A. Frison, and A. Riener. 2019.	Investigating User Requirements for
-Communication Between Automated Vehicles and Vulnerable Road Users. In 2019 IEEE Intelligent Vehicles Symposium (IV). 879–884. DOI:
-http://dx.doi.org/10.1109/IVS.2019.8814027
+Communication Between Automated Vehicles and Vulnerable Road Users. In 2019 IEEE Intelligent Vehicles Symposium (IV). 879–884. DOI: [10.1109/IVS.2019.8814027](http://dx.doi.org/10.1109/IVS.2019.8814027)
 24. <a name="ref24"></a> Karthik Mahadevan, Sowmya Somanath, and Ehud Sharlin. 2018. Communicating awareness and intent in autonomous vehicle-pedestrian interaction. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems. ACM, 429.
-25. <a name="ref25"></a> Andrii Matviienko, Swamy Ananthanarayan, Shadan Sadeghian Borojeni, Yannick Feld, Wilko Heuten, and Susanne Boll. 2018. Augmenting Bicycles and Helmets with Multimodal Warnings for Children. In
-Proceedings of the 20th International Conference on
-Human-Computer Interaction with Mobile Devices and
-Services (MobileHCI ’18). Association for Computing Machinery, New York, NY, USA, Article Article 15, 13 pages. DOI:
-http://dx.doi.org/10.1145/3229434.3229479
-26. <a name="ref26"></a> Andrii Matviienko, Swamy Ananthanarayan, Stephen Brewster, Wilko Heuten, and Susanne Boll. 2019a.
-Comparing Unimodal Lane Keeping Cues for Child
-Cyclists. In Proceedings of the 18th International
-Conference on Mobile and Ubiquitous Multimedia (MUM ’19). Association for Computing Machinery, New York, NY, USA, Article Article 14, 11 pages. DOI: http://dx.doi.org/10.1145/3365610.3365632
-27. <a name="ref27"></a> Andrii Matviienko, Swamy Ananthanarayan, Abdallah
-El Ali, Wilko Heuten, and Susanne Boll. 2019b. NaviBike: Comparing Unimodal Navigation Cues for Child Cyclists.
-In Proceedings of the 2019 CHI Conference on Human
-Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Article Paper 620, 12 pages. DOI:
-http://dx.doi.org/10.1145/3290605.3300850
-28. <a name="ref28"></a> United Nations. 2019a. World Population Prospects: The 2019.	Revision. https://www.statista.com/statistics/
-678737/total-number-of-children-worldwide/. (2019).
-Online; accessed: 04-MARCH-2020].
-29. <a name="ref29"></a> United Nations. 2019b. World Population Prospects: The 2019 Revision 10 Key Findings.
-https://population.un.org/wpp/Publications/Files/ WPP2019_10KeyFindings.pdf. (2019). [Online; accessed: 04-MARCH-2020].
-30. <a name="ref30"></a> Trung Thanh Nguyen, Kai Holländer, Marius Hoggenmueller, Callum Parker, and Martin Tomitsch. 2019. Designing for Projection-based Communication between Autonomous Vehicles and Pedestrians. In Proceedings of the 11th International Conference on
-Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI ’19). ACM, New York, NY, USA.
-DOI:http://dx.doi.org/10.1145/3342197.3344543
-31. <a name="ref31"></a> World Health Organization. 2018. Blindness and vision impairment.
-https://www.who.int/news-room/fact-sheets/detail/ blindness-and-visual-impairment. (2018). [Online; accessed: 07-JUNE-2019].
-32. <a name="ref32"></a> World Health Organization. 2019. Deafness and hearing loss. https://www.who.int/news-room/fact-sheets/ detail/deafness-and-hearing-loss. (2019). [Online; accessed: 07-SEPTEMBER-2019].
+25. <a name="ref25"></a> Andrii Matviienko, Swamy Ananthanarayan, Shadan Sadeghian Borojeni, Yannick Feld, Wilko Heuten, and Susanne Boll. 2018. Augmenting Bicycles and Helmets with Multimodal Warnings for Children. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ’18). Association for Computing Machinery, New York, NY, USA, Article Article 15, 13 pages. DOI: [10.1145/3229434.3229479](http://dx.doi.org/10.1145/3229434.3229479)
+26. <a name="ref26"></a> Andrii Matviienko, Swamy Ananthanarayan, Stephen Brewster, Wilko Heuten, and Susanne Boll. 2019a. Comparing Unimodal Lane Keeping Cues for Child Cyclists. In Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia (MUM ’19). Association for Computing Machinery, New York, NY, USA, Article Article 14, 11 pages. DOI: [10.1145/3365610.3365632](http://dx.doi.org/10.1145/3365610.3365632)
+27. <a name="ref27"></a> Andrii Matviienko, Swamy Ananthanarayan, Abdallah El Ali, Wilko Heuten, and Susanne Boll. 2019b. NaviBike: Comparing Unimodal Navigation Cues for Child Cyclists. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Article Paper 620, 12 pages. DOI: [10.1145/3290605.3300850](http://dx.doi.org/10.1145/3290605.3300850)
+28. <a name="ref28"></a> United Nations. 2019a. World Population Prospects: The 2019 Revision. [www.statista.com/statistics/678737/total-number-of-children-worldwide/](https://www.statista.com/statistics/678737/total-number-of-children-worldwide/). (2019). Accessed: 04-MARCH-2020.
+29. <a name="ref29"></a> United Nations. 2019b. World Population Prospects: The 2019 Revision 10 Key Findings. [population.un.org/wpp/Publications/Files/WPP2019_10KeyFindings.pdf](https://population.un.org/wpp/Publications/Files/WPP2019_10KeyFindings.pdf). (2019). Accessed: 04-MARCH-2020.
+30. <a name="ref30"></a> Trung Thanh Nguyen, Kai Holländer, Marius Hoggenmueller, Callum Parker, and Martin Tomitsch. 2019. Designing for Projection-based Communication between Autonomous Vehicles and Pedestrians. In Proceedings of the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI ’19). ACM, New York, NY, USA. DOI: [10.1145/3342197.3344543](http://dx.doi.org/10.1145/3342197.3344543)
+31. <a name="ref31"></a> World Health Organization. 2018. Blindness and vision impairment. [www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment](https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment). (2018). Accessed: 07-JUNE-2019.
+32. <a name="ref32"></a> World Health Organization. 2019. Deafness and hearing loss. [www.who.int/news-room/fact-sheets/](https://www.who.int/news-room/fact-sheets/) detail/deafness-and-hearing-loss. (2019). Accessed: 07-SEPTEMBER-2019.
 33. <a name="ref33"></a> Jennifer A Oxley, Elfriede Ihsen, Brian N Fildes, Judith L Charlton, and Ross H Day. 2005. Crossing roads safely: an experimental study of age differences in gap selection by pedestrians. Accident Analysis & Prevention 37, 5 (2005), 962–971.
 34. <a name="ref34"></a> Jeffrey S Passel and D D’Vera Cohn. 2008. US population projections, 2005-2050. Pew Research Center Washington, DC.
-35. <a name="ref35"></a> Champika Ranasinghe, Stefan Schneegass, Kai Holländer, Rebecca Currano, David Sirkin, Dylan Moore, and Wendy Ju. 2020. Autonomous Vehicle-Pedestrian Interaction Across Cultures: Towards Designing Better
-External Human Machine Interfaces (eHMIs). In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). ACM, Association for Computing Machinery, New York, NY, USA. DOI:
-http://dx.doi.org/10.1145/3334480.3382957 Accepted.
+35. <a name="ref35"></a> Champika Ranasinghe, Stefan Schneegass, Kai Holländer, Rebecca Currano, David Sirkin, Dylan Moore, and Wendy Ju. 2020. Autonomous Vehicle-Pedestrian Interaction Across Cultures: Towards Designing Better External Human Machine Interfaces (eHMIs). In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). ACM, Association for Computing Machinery, New York, NY, USA. DOI: [10.1145/3334480.3382957](http://dx.doi.org/10.1145/3334480.3382957). Accepted.
 36. <a name="ref36"></a> Amir Rasouli, Iuliia Kotseruba, and John K Tsotsos. 2017. Understanding pedestrian behavior in complex traffic scenes. IEEE Transactions on Intelligent Vehicles 3, 1 (2017), 61–70.
-37. <a name="ref37"></a> WHO/NMH/NVI/18.20. 2018. Global status report on road safety 2018: Summary. Status report. World Health Organization, Geneva. https://www.who.int/violence_ injury_prevention/road_safety_status/2018/en/.
+37. <a name="ref37"></a> WHO/NMH/NVI/18.20. 2018. Global status report on road safety 2018: Summary. Status report. World Health Organization, Geneva. [www.who.int/violence_injury_prevention/road_safety_status/2018/en/](https://www.who.int/violence_injury_prevention/road_safety_status/2018/en/).
