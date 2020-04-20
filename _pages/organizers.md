@@ -16,7 +16,7 @@ classes: wide
 
 **Azra Habibovic** is senior researcher at RISE Research Institutes of Sweden and research area director for road user behaviour at research center SAFER. Her research focuses on traffic safety, with emphasis on interactions between automated vehicles and other road users. *Contact: azra.habibovic@<span style="display:none;">thisisnotpartofthedomain-</span>ri.<span style="display:none;">thisnoteither-</span>se*
 
-**Andrew Kun** is professor of Electrical & Computer Engineering at the University of New Hampshire. His research focus is HCI in vehicles [20] and specifically for automated vehicles [17–19]. He is the steering committee co-chair of AutomotiveUI. *Contact: andrew.kun@<span style="display:none;">thisisnotpartofthedomain-</span>unh.<span style="display:none;">thisnoteither-</span>edu*
+**Andrew Kun** is professor of Electrical & Computer Engineering at the University of New Hampshire. His research focus is HCI in vehicles [[20](/References/#ref20)] and specifically for automated vehicles [[17–19](/References/#ref17)]. He is the steering committee co-chair of AutomotiveUI. *Contact: andrew.kun@<span style="display:none;">thisisnotpartofthedomain-</span>unh.<span style="display:none;">thisnoteither-</span>edu*
 
 **Susanne Boll** is professor for Media Informatics and Multimedia Systems at the University in Oldenburg. In her research she addresses the interaction technologies for elderly people and and interaction of traffic participants with automated vehicles. *Contact: susanne.boll@<span style="display:none;">thisisnotpartofthedomain-</span>uol.<span style="display:none;">thisnoteither-</span>de*
 

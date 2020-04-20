@@ -97,7 +97,7 @@ Potential topics to be discussed at the workshop include, but are not limited to
 
 ## Workshop Organization
 <!-- To this end, there are presentations, hands-on activities, and group discussions planned.  -->
-We begin with a round of introduction, a brief presentation of the current state of research regarding automated vehicles and vulnerable road user interaction (Overview on eHMIs), and 4 minutes Pecha-Kucha style [3] presentations of the position papers by participants (Paper Presentations).
+We begin with a round of introduction, a brief presentation of the current state of research regarding automated vehicles and vulnerable road user interaction (Overview on eHMIs), and 4 minutes Pecha-Kucha style [[3](/References/#ref3)] presentations of the position papers by participants (Paper Presentations).
 
 Between the first break and lunch, we want to establish a common understanding of the key challenges in current AV-VRU research. We will revise open questions from submitted workshop papers to derive topics for a World Café (see above Figure, left). Thus, groups of participants discuss a topic for twenty minutes before switching to another table. Possible subjects might be: “technology for AV-VRU communication including mobile devices”, “identification of cultural differences in traffic”, or “inclusive interfaces for impaired people”. After 60 minutes, each group presents the outcome of the table they are sitting at in about 15 minutes, including a 5 minutes discussion (Presentation). Afterward, the participants will be asked to write down their most important research challenges, and the workshop organizers will collect and cluster the presented findings (Research Challenges).
 
