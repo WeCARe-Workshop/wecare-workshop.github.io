@@ -12,5 +12,5 @@ As this topic is under-reported, we have the ambition to make a special issue, g
 ## Accepted Position Papers
 *Links to the accepted position papers will be available here.*
 
-## Publications Inspired from this Workshop
+## Publications Inspired From This Workshop
 *None yet.*
