@@ -13,6 +13,7 @@ Devices and Services (MobileHCI 2020):
 |                                                                             |
 | Workshop website: https://wecare-workshop.github.io/                        |
 | Submission deadline (position papers): July 2nd, 2020                       |
+| Submission via EasyChair: https://easychair.org/cfp/WeCARe2020              |
 -------------------------------------------------------------------------------
 
 
@@ -77,9 +78,9 @@ workshop beyond the main conference registration fee.
 
 --------------------------------| SUBMISSIONS |--------------------------------
 Participants are expected to submit a position paper of two to four pages, 
-not counting references, via EasyChair by July 2nd 2020. 
-All submissions must follow the new CHI Extended Abstracts format: 
-https://chi2020.acm.org/authors/chi-proceedings-format/#EAF 
+not counting references, via EasyChair (https://easychair.org/cfp/WeCARe2020) 
+by July 2nd 2020. All submissions must follow the new CHI Extended Abstracts 
+Format: https://chi2020.acm.org/authors/chi-proceedings-format/#EAF 
 Submissions are not anonymous but reviews will be done anonymously 
 (single-blind). Each paper will receive at least two reviews. All accepted 
 papers will be published online before the beginning of the workshop. 
@@ -88,7 +89,7 @@ papers will be published online before the beginning of the workshop.
 -----------------------------| WEBSITE & CONTACT |-----------------------------
 For further information have a look at https://wecare-workshop.github.io/. 
 You may also contact the workshop organizers directly or send an e-mail to 
-wecare2020@pm.me . 
+wecare2020@pm.me. 
 
 
 ---------------------------------| ORGANIZERS |--------------------------------
@@ -101,6 +102,7 @@ Azra Habibovic, RISE Research Institutes of Sweden
 Andrew L. Kun, University of New Hampshire, US
 Susanne Boll, University of Oldenburg, Germany
 Andreas Riener, Technische Hochschule Ingolstadt (THI), Germany
+
 
 ----------------------------------| FUNDING |----------------------------------
 A. Löcken is supported by the German Federal Ministry of Transport and Digital 
