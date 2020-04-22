@@ -1,8 +1,10 @@
 main:
-  - title: "News"
-    url: /News/
+  # - title: "News"
+  #   url: /News/
   - title: "Participate"
-    url: /#audience
+    url: /Participate
+  - title: "Schedule"
+    url: /Schedule
   - title: "Background"
     url: /Background/
   - title: "Outcome"

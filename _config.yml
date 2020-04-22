@@ -108,7 +108,7 @@ author:
   # links:
   #   - label: "Participants must **submit a position paper before July, 2nd**."
   #     icon: "fas fa-fw fa-link"
-  #     url: "/Participate/#submission"
+  #     url: "/Participate/Participate"
   #   - label: "Twitter"
   #     icon: "fab fa-fw fa-twitter-square"
   #     url: "https://twitter.com/"
@@ -119,7 +119,7 @@ author:
   #     icon: "fab fa-fw fa-instagram"
   #     url: "https://instagram.com/"
 
-announcement: "[Submit a position paper before July, 2nd.](/#submission){: .align--left .btn .btn--danger .btn--large }"
+announcement: "[Submit a position paper before July, 2nd.](/Participate){: .align--left .btn .btn--danger .btn--large }"
 
 footer:
   links:
