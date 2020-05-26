@@ -1,11 +1,11 @@
 ---
 permalink: /Schedule
-title: "Schedule"
+title: "Schedule (Outdated!)"
 classes: wide
 
-sidebar: 
-- title: "Schedule"
-- text: <table>    <thead>      <tr>        <th>Time</th>        <th>Topic</th>      </tr>    </thead>    <tbody>      <tr>        <td>09:00</td>        <td>Opening</td>      </tr>      <tr>        <td>09:15</td>        <td>Overview on eHMIs</td>      </tr>      <tr>        <td>09:30</td>        <td>Paper Presentations</td>      </tr>      <tr>        <td>10:30</td>        <td><strong>Morning Break</strong></td>      </tr>      <tr>        <td>10:50</td>        <td>World Café</td>      </tr>      <tr>        <td>11:50</td>        <td>Presentations</td>      </tr>      <tr>        <td>12:35</td>        <td>Research Challenges</td>      </tr>      <tr>        <td>12:50</td>        <td><strong>Lunch Break</strong></td>      </tr>      <tr>        <td>13:50</td>        <td>Discussion</td>      </tr>      <tr>        <td>14:10</td>        <td>Prototyping</td>      </tr>      <tr>        <td>15:00</td>        <td>Presentations</td>      </tr>      <tr>        <td>15:30</td>        <td><strong>Afternoon Break</strong></td>      </tr>      <tr>        <td>15:50</td>        <td>Results</td>      </tr>      <tr>        <td>16:05</td>        <td>Plenum Discussion</td>      </tr>      <tr>        <td>16:30</td>        <td>Wrap-Up</td>      </tr>      <tr>        <td>17:00</td>        <td><strong>End.</strong></td>      </tr>    </tbody>  </table>
+# sidebar: 
+# - title: "Schedule"
+# - text: <table>    <thead>      <tr>        <th>Time</th>        <th>Topic</th>      </tr>    </thead>    <tbody>      <tr>        <td>09:00</td>        <td>Opening</td>      </tr>      <tr>        <td>09:15</td>        <td>Overview on eHMIs</td>      </tr>      <tr>        <td>09:30</td>        <td>Paper Presentations</td>      </tr>      <tr>        <td>10:30</td>        <td><strong>Morning Break</strong></td>      </tr>      <tr>        <td>10:50</td>        <td>World Café</td>      </tr>      <tr>        <td>11:50</td>        <td>Presentations</td>      </tr>      <tr>        <td>12:35</td>        <td>Research Challenges</td>      </tr>      <tr>        <td>12:50</td>        <td><strong>Lunch Break</strong></td>      </tr>      <tr>        <td>13:50</td>        <td>Discussion</td>      </tr>      <tr>        <td>14:10</td>        <td>Prototyping</td>      </tr>      <tr>        <td>15:00</td>        <td>Presentations</td>      </tr>      <tr>        <td>15:30</td>        <td><strong>Afternoon Break</strong></td>      </tr>      <tr>        <td>15:50</td>        <td>Results</td>      </tr>      <tr>        <td>16:05</td>        <td>Plenum Discussion</td>      </tr>      <tr>        <td>16:30</td>        <td>Wrap-Up</td>      </tr>      <tr>        <td>17:00</td>        <td><strong>End.</strong></td>      </tr>    </tbody>  </table>
 
 gallery:
   - url: /assets/images/morningcafe.jpg
@@ -18,12 +18,20 @@ gallery:
     title: "Created traffic scenario during a prototyping session."
 ---
 
+Due to the measures against COVID-19, this workshop is going to be held in a virtual environment. 
+Thus, the schedule below is outdated. 
+We are trying to find good substitutes for the many interactive elements of this workshop. 
+Please stay tuned for details. 
+{: .align--left .notice--danger  }
+
 <!-- {% include figure image_path="/assets/images/morningcafe.jpg" alt="A snapshot of a table during a World Café." caption="A snapshot of a table during a World Café." %} -->
 
 {% include gallery caption="Examples for the interactive parts of the workshop: a *World Café* (left) and the result of a *quick prototype* (right)." %}
 
+The schedule is now outdated. We are working on an alternative that can be realized with remote participation. Until then, this may still give you an idea of what we want to do in this workshop. 
+{: .align--left .notice--danger  }
 
-<!-- | Time        | Topic                     |
+| Time        | Topic                     |
 |-------------|---------------------------|
 |    09:00    |    Opening                |
 |    09:15    |    Overview on eHMIs      |
@@ -40,7 +48,7 @@ gallery:
 |    15:50    |    Results                |
 |    16:05    |    Plenum Discussion      |
 |    16:30    |    Wrap-Up                |
-|    17:00    |    **End.**               | -->
+|    17:00    |    **End.**               | 
 
 <!-- To this end, there are presentations, hands-on activities, and group discussions planned.  -->
 We begin with a round of introduction, a brief presentation of the current state of research regarding automated vehicles and vulnerable road user interaction (Overview on eHMIs), and 4 minutes Pecha-Kucha style [[3](/References/#ref3)] presentations of the position papers by participants (Paper Presentations).

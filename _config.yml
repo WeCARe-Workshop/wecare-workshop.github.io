@@ -104,7 +104,7 @@ author:
   #avatar : "/assets/images/bio-photo.jpg"
   bio    : >- 
     **W**orkshop on Inclusiv**e** **C**ommunication between **A**utomated Vehicles and Vulnerable **R**oad Us**e**rs. 
-    *In conjunction with [MobileHCI 2020](https://mobilehci.acm.org/2020/), October 5th, Oldenburg, Germany*.
+    *In conjunction with [MobileHCI 2020](https://mobilehci.acm.org/2020/), October 5th, **Now Virtual***.
   # links:
   #   - label: "Participants must **submit a position paper before July, 2nd**."
   #     icon: "fas fa-fw fa-link"
@@ -119,7 +119,8 @@ author:
   #     icon: "fab fa-fw fa-instagram"
   #     url: "https://instagram.com/"
 
-announcement: "[Submit a position paper before July, 2nd.](/Participate){: .align--left .btn .btn--danger .btn--large }"
+announcement: "This workshop is going virtual. The information are currently being updated. Stay tuned.\n {: .align--left .btn .btn--info .btn--large }"
+#                [Submit a position paper before July, 2nd.](/Participate){: .align--left .btn .btn--danger .btn--large }"
 
 footer:
   links:
