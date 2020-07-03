@@ -26,10 +26,10 @@ We welcome researchers and practitioners with interest in accessible technology,
 ## Paper / Video Submission
 Participants are invited to submit videos or position papers. 
 A paper must be between two and four pages long, not including references, in [2020 CHI Extended Abstract Format](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF). 
-To submit a video instead, authors must create a PDF file containing the title of the paper, its name and the URL to the video file. The video must remain online until the decision deadline. 
+To submit a video instead, authors must create a PDF file containing the title of the paper, their names, and the URL to the video file. The video must remain online until the decision deadline. 
 The generated PDF should be submitted via [EasyChair (easychair.org/conferences/?conf=wecare2020)](https://easychair.org/conferences/?conf=wecare2020). 
 
-Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted papers will be published online** before the beginning of the workshop. 
+Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted submissions will be published online** before the beginning of the workshop. 
 
 ## Goals of the Workshop
 We intend to achieve the following goals with this workshop:
