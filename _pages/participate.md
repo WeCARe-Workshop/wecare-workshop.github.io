@@ -8,11 +8,11 @@ sidebar:
 - title: "Deadlines"
 - text: "<div class='notice--danger'>These deadlines may change in the future due to this workshop going virtual!</div>
 
-        <ul><li><b>Submissions</b> via <a href='https://easychair.org/conferences/?conf=wecare2020' target='_blank'>EasyChair</a>:<br/> July 2nd, 2020 </li>
-        <li><b>Notifications</b>:<br/> July 23rd, 2020</li>
-        <li><b>Camera-Ready Versions</b>:<br/> August 7th, 2020</li>
+        <ul><li><b>Submissions</b> via <a href='https://easychair.org/conferences/?conf=wecare2020' target='_blank'>EasyChair</a>:<br/> <del>July 2nd</del> August 6th, 2020 </li>
+        <li><b>Notifications</b>:<br/><del>July 23rd</del>, 2020</li>
+        <li><b>Camera-Ready Versions</b>:<br/><del>August 7th</del>, 2020</li>
         <li><b>Workshop Day</b>:<br/> October 5th, 2020</li></ul>"
-# <!-- * **Early Registration**: August 14th??, 2020 -->
+# <!-- * **Early Registration**: August 19th??, 2020 -->
 # <!-- * **Submission of Presentations**: Ocotber 1st, 2020 -->
 
 ---
