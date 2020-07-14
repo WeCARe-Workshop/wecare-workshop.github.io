@@ -1,6 +1,6 @@
 ---
 permalink: /Schedule
-title: "Schedule (Outdated!)"
+title: "Preliminary Schedule"
 classes: wide
 
 # sidebar: 
@@ -19,44 +19,45 @@ gallery:
 ---
 
 Due to the measures against COVID-19, this workshop is going to be held in a virtual environment. 
-Thus, the schedule below is outdated. 
-We are trying to find good substitutes for the many interactive elements of this workshop. 
-Please stay tuned for details. 
+The schedule below is a preliminary update to account for that and will probably change before the workshop. 
+If you see problems or have an idea on how to make the workshop a good (remote) experience for everyone, please don't hesitate to let us know (preferably via e-mail, see [Organizers](/Organizers) for contact details). 
 {: .align--left .notice--danger  }
 
 <!-- {% include figure image_path="/assets/images/morningcafe.jpg" alt="A snapshot of a table during a World Café." caption="A snapshot of a table during a World Café." %} -->
 
 {% include gallery caption="Examples for the interactive parts of the workshop: a *World Café* (left) and the result of a *quick prototype* (right)." %}
 
-The schedule is now outdated. We are working on an alternative that can be realized with remote participation. Until then, this may still give you an idea of what we want to do in this workshop. 
+## Before the Conference
+<!-- To this end, there are presentations, hands-on activities, and group discussions planned.  -->
+Before the conference, participants will receive a welcoming video-message containing an introduction to the workshop, and a brief presentation of the current state of research regarding automated vehicles and vulnerable road user interaction. 
+
+## First Part -- Introduction Into the Topic
+We plan to split the workshop into multiple sessions of about ninety minutes to two hours to make it easier to account for different timezones and less exhausting for our participants. 
+However, times and days are not fixed yet. 
 {: .align--left .notice--danger  }
 
-| Time        | Topic                     |
-|-------------|---------------------------|
-|    09:00    |    Opening                |
-|    09:15    |    Overview on eHMIs      |
-|    09:30    |    Paper Presentations    |
-|    10:30    |    **Morning Break**      |
-|    10:50    |    World Café             |
-|    11:50    |    Presentations          |
-|    12:35    |    Research Challenges    |
-|    12:50    |    **Lunch Break**        |
-|    13:50    |    Discussion             |
-|    14:10    |    Prototyping            |
-|    15:00    |    Presentations          |
-|    15:30    |    **Afternoon Break**    |
-|    15:50    |    Results                |
-|    16:05    |    Plenum Discussion      |
-|    16:30    |    Wrap-Up                |
-|    17:00    |    **End.**               | 
+After a short welcome, we will start the workshop with the submitted three-minute videos from the participants (see [Video Format](/Participate#video-format) for instructions), followed by discussions. 
+The videos will be available on this website but also be shown live in the video-conference (e.g., using Zoom). 
+This introduction into the topic will be followed by an ice breaker session to help participants get to know each other. 
 
-<!-- To this end, there are presentations, hands-on activities, and group discussions planned.  -->
-We begin with a round of introduction, a brief presentation of the current state of research regarding automated vehicles and vulnerable road user interaction (Overview on eHMIs), and 4 minutes Pecha-Kucha style [[3](/References/#ref3)] presentations of the position papers by participants (Paper Presentations).
+## Second Part -- Building a Common Understanding
+We want to establish a common understanding of the key challenges in current AV-VRU research. We will revise open questions from submitted workshop papers to derive topics for a World Café (see above Figure, left). Thus, the participants will be split into multiple groups that discuss a topic for twenty minutes in a dedicated video-conference using an online whiteboard (like Miro) to write down their ideas. Possible subjects might be: “technology for AV-VRU communication including mobile devices”, “identification of cultural differences in traffic”, or “inclusive interfaces for impaired people”. The groups switch every 20 minutes. After 60 minutes, each group presents the outcome of the table they are sitting at in about 15 minutes, including a 5 minutes discussion. 
 
-Between the first break and lunch, we want to establish a common understanding of the key challenges in current AV-VRU research. We will revise open questions from submitted workshop papers to derive topics for a World Café (see above Figure, left). Thus, groups of participants discuss a topic for twenty minutes before switching to another table. Possible subjects might be: “technology for AV-VRU communication including mobile devices”, “identification of cultural differences in traffic”, or “inclusive interfaces for impaired people”. After 60 minutes, each group presents the outcome of the table they are sitting at in about 15 minutes, including a 5 minutes discussion (Presentation). Afterward, the participants will be asked to write down their most important research challenges, and the workshop organizers will collect and cluster the presented findings (Research Challenges).
+Between this and the next session, participants will be asked to add their most important research challenges to a dedicated online whiteboard. The workshop organizers will cluster the presented findings and use them in the next part of the workshop.
 
-In the first 20 minutes after lunch, we will discuss identified challenges based on the World Café results (Discussion). 
-Afterward, participants are split into groups of four people to prototype matching interaction techniques, methods, or scenarios, using the “Quick and Dirty Prototyping” technique (Prototyping, see above Figure, right). 
-After 50 minutes, each group has 10 minutes to present their prototype(s) before the afternoon break (Presentations).
+## Third Part -- Research Challenges and Prototyping Inclusive Desings
+In the first 30 minutes, we will discuss identified challenges based on the World Café results and the clustered research challenges. 
+Afterward, participants are asked to prototype interaction techniques, methods, or scenarios to understand the research challenges or possible solutions better. 
+The participants are free to use any materials and tools they may have available. 
+Considering MobileHCI's goal of being a sustainable conference, we encourage the use of cheap materials that participants can find in their household and use the “Quick and Dirty Prototyping” technique (see above Figure, right). 
+After 50 minutes, each group has 10 minutes to present their prototype(s) before the afternoon break.
 
-In the last part, we want to focus on the results of the workshop and the next steps (Results). The composed challenges and solutions are split into clusters and become revisited in groups for 15 minutes. Afterward, the relevance of each research opportunity / challenge is discussed in a plenum (Plenum Discussion). The goal is to reach a common understanding of research gaps and opportunities as well as requirements for inclusive AV-VRU interaction. The last 30 minutes are dedicated to wrapping up the workshop’s outcomes, plan the next steps, and discuss where to publish possible results (Wrap Up). Furthermore, we aim to agree on a platform for future exchanges of workshop participants, e.g., a Slack team.
+Depending on the available time and input from participants, the prototyping part may also be done offline between the sessions. The results would then be presented and discussed as the first part of the last session. 
+
+## Fourth Part -- Next Steps
+In the last part, we want to focus on the results of the workshop and the next steps. 
+The composed challenges and solutions are split into clusters and become revisited in groups for 15 minutes. 
+Afterward, the relevance of each research opportunity/challenge is discussed in a plenum. 
+The goal is to reach a common understanding of research gaps and opportunities as well as requirements for inclusive AV-VRU interaction. 
+The last 30 minutes are dedicated to wrapping up the workshop’s outcomes, plan the next steps, and discuss where to publish possible results. 
+Furthermore, we aim to agree on a platform for future exchanges of workshop participants, e.g., a Slack team.

@@ -24,12 +24,29 @@ We welcome researchers and practitioners with interest in accessible technology,
 <!-- We will reach out to the community via social media channels (e.g., Twitter, Facebook, or LinkedIn), mailing lists (e.g., GI, or ACM SIGCHI), and at the AutomotiveUI conference. We expect to have 15 to 20 attendees.  -->
 
 ## Paper / Video Submission
-Participants are invited to submit videos or position papers. 
-A paper must be between two and four pages long, not including references, in [2020 CHI Extended Abstract Format](https://chi2020.acm.org/authors/chi-proceedings-format/#EAF). 
-To submit a video instead, authors must create a PDF file containing the title of the paper, their names, and the URL to the video file. The video must remain online until the decision deadline. 
+Participants are invited to submit 3-minute videos or position papers. 
+Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted submissions will be published online** before the beginning of the workshop. 
 The generated PDF should be submitted via [EasyChair (easychair.org/conferences/?conf=wecare2020)](https://easychair.org/conferences/?conf=wecare2020). 
 
-Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted submissions will be published online** before the beginning of the workshop. 
+### Paper Format 
+A paper must be between two and four pages long, not including references, in the [ACM Conference Proceedings "Master" Template](https://www.acm.org/publications/taps/word-template-workflow). 
+In LaTeX, the single-column version of the template is defined by using the following line as document class: 
+```
+\documentclass[manuscript,screen,nonacm]{acmart}
+```
+The CCS-concepts can be removed. 
+The paper needs to be submitted as a PDF file and should resemble this example file: [Example_Paper.pdf](/assets/ACM_Conference_Proceedings_Example.pdf).
+
+### Video Format
+To submit a video, authors must create a PDF file containing their names, the title of the video, and the URL to the video file. 
+The video must remain online until the decision deadline. 
+Video formats should have a resolution of at least 1080p or 1080x1920 px. 
+The audio bitrate should be at least 128 kbps for Mono, or 384 kbps for Stereo sound. 
+Video contents are expected to contain captions for increased accessibility. 
+Authors are free to structure their videos as they see fit, as long as they stay within three minutes. 
+For example, a simple way to create a video could be to record a Pecha-Kucha style presentation [[3](/References/#ref3)]. 
+Videos should not contain advertisements or be heavily promotional. 
+The prepared PDF should be submitted via Easychair and resemble this example file: [Example_Video.pdf](/assets/Video_Example.pdf).
 
 ## Goals of the Workshop
 We intend to achieve the following goals with this workshop:
@@ -48,3 +65,18 @@ Potential topics to be discussed at the workshop include, but are not limited to
 * Guidelines for inclusive design from related domains, such as
   * Mobile Human-Computer Interaction
   * Human-Robot Interaction 
+
+## Tools Used at the Workshop
+This workshop will be held remotely. It is important that participants test their tools and devices for a smooth event. 
+Below, we list the currently planned tools that will be used during the workshop. 
+If you see problems with these tools, feel free to contact us (see [Organizers](/Organizers) for contact details). 
+
+### Video Conferencing
+We plan to use [Zoom](https://zoom.us/) as video-conferencing. It will be used throughout the workshop to connect the participants. We will also use the break-out feature when we need to split our participants into smaller groups for discussions. 
+
+### Whiteboard 
+We plan to use [Miro](https://miro.com/) as online whiteboard. 
+It will be used to collect and cluster ideas from participants in the interactive parts of the workshop. 
+
+### (Asynchronous) Communication
+We did not decide for a communication platform for discussion between the sessions or after the workshop. We would like to use the software that MobileHCI is also using. This is probably going to be [Slack](https://slack.com/) or [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/). 
