@@ -82,8 +82,8 @@ participants and will be EUR 30 (or EUR 20 for early registrations).
 --------------------------------| SUBMISSIONS |--------------------------------
 Participants are invited to submit a three-minute video or a position paper of
 two to four pages, not counting references, via EasyChair by August 6th 2020.
-All submissions must follow the new CHI Extended Abstracts format:
-https://chi2020.acm.org/authors/chi-proceedings-format/#EAF
+All submissions must follow the new ACM Conference Proceedings "Master" 
+Template: https://www.acm.org/publications/taps/word-template-workflow/.
 Submissions are not anonymous but reviews will be done anonymously
 (single-blind). Each paper will receive at least two reviews. All accepted
 papers will be published online before the beginning of the workshop.
