@@ -5,28 +5,28 @@ conjunction with the 22nd International Conference on Human-Computer
 Interaction with Mobile Devices and Services (MobileHCI 2020):
 
 -------------------------------------------------------------------------------
-| WeCARe: Workshop on Inclusive Communication between                         |
-|         Automated Vehicles and Vulnerable Road Users                        |
-|                                                                             |
-| Virtual (Oldenburg, Germany); Early October, 2020                           |
-| in conjunction with MobileHCI 2020 (https://mobilehci.acm.org/2020/)        |
-|                                                                             |
-| Workshop website: https://wecare-workshop.github.io/                        |
-| Submission deadline (position paper or video): August 6th, 2020             |
-| Submission via EasyChair: https://easychair.org/cfp/WeCARe2020              |
+ WeCARe: Workshop on Inclusive Communication between 
+         Automated Vehicles and Vulnerable Road Users 
+
+ Virtual (Oldenburg, Germany); Early October, 2020 
+ in conjunction with MobileHCI 2020 (https://mobilehci.acm.org/2020/)
+
+ Workshop website: https://wecare-workshop.github.io/
+ Submission deadline (position paper or video): August 6th, 2020 
+ Submission via EasyChair: https://easychair.org/cfp/WeCARe2020
 -------------------------------------------------------------------------------
 
 ===============================================================================
-! Due to the measures against COVID-19, this workshop will be held online.    !
-! Some details may still change. Please check the website for updates.        !
+ Due to the measures against COVID-19, this workshop will be held online.    
+ Some details may still change. Please check the website for updates.        
 ===============================================================================
 
 
 ---------------------| IMPORTANT DATES FOR THE WORKSHOP |----------------------
 * Submission deadline: August 6th, 2020
-* Notification of acceptance: August, 2020
-* Camera ready version due: September, 2020
-* Workshop date: Early October, 2020
+* Notification of acceptance: August 2020
+* Camera-ready version due: September 2020
+* Workshop date: Early October 2020
 
 
 ----------| OBJECTIVES: Inclusive Communication between AVs and VRUs |---------
@@ -49,7 +49,7 @@ for future collaborations.
 ------------------------------| WORKSHOP THEMES |------------------------------
 Potential topics to be discussed at the workshop include, but are not limited
 to:
-* Overview on current state and research gaps in research on
+* Overview on the current state and research gaps in research on
   interactions between AVs and VRUs
 * Communication concepts for underrepresented user groups, such as
   - Children
@@ -81,7 +81,7 @@ participants and will be EUR 30 (or EUR 20 for early registrations).
 
 --------------------------------| SUBMISSIONS |--------------------------------
 Participants are invited to submit a three-minute video or a position paper of
-two to four pages, not counting references, via EasyChair by August 6th 2020.
+two to four pages, not counting references, via EasyChair by August 6th, 2020.
 All submissions must follow the new ACM Conference Proceedings "Master" 
 Template: https://www.acm.org/publications/taps/word-template-workflow/.
 Submissions are not anonymous but reviews will be done anonymously
@@ -118,6 +118,8 @@ by the Swedish Strategic Vehicle Research and Innovation programme (FFI)
 through the project External interaction principles for creating trust in
 heavy automated vehicles (ref 2019-05901). A. Kun was supported in part by NSF
 grant CMMI-1840085.
+
+
 
 
 Looking forward to hearing from you.
