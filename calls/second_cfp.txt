@@ -108,16 +108,15 @@ Andreas Riener, Technische Hochschule Ingolstadt (THI), Germany
 
 
 ----------------------------------| FUNDING |----------------------------------
-A. Löcken is supported by the German Federal Ministry of Transport and Digital
-Infrastructure (BMVI) through the Automated and Connected Driving funding
-program under Grant No. 16AVF2145F (SAVe; funding volume: 989 296 €).
-M. Colley works within the project 'Interaction between automated vehicles and
-vulnerable road users' (Intuitiver) funded by the Ministry of Science,
-Research and Arts of the State of Baden-Württemberg. A. Habibovic is supported
-by the Swedish Strategic Vehicle Research and Innovation programme (FFI)
-through the project External interaction principles for creating trust in
-heavy automated vehicles (ref 2019-05901). A. Kun was supported in part by NSF
-grant CMMI-1840085.
+A. Löcken is supported by the German Federal Ministry of Transport and Digital 
+Infrastructure (BMVI) through the Automated and Connected Driving funding 
+program under Grant No. 16AVF2145F (SAVe). M. Colley works within the project 
+'Interaction between automated vehicles and vulnerable road users' 
+(Intuitiver) funded by the Ministry of Science, Research and Arts of the State 
+of Baden-Württemberg. A. Habibovic is supported by the Swedish Strategic 
+Vehicle Research and Innovation programme (FFI) through the project External 
+interaction principles for creating trust in heavy automated vehicles 
+(ref 2019-05901). A. Kun was supported in part by NSF grant CMMI-1840085.
 
 
 
