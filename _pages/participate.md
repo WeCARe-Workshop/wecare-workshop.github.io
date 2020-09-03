@@ -6,11 +6,13 @@ classes: wide
 #author_profile: false
 sidebar:
 - title: "Deadlines"
-- text: "<div class='notice--danger'>These deadlines may change in the future due to this workshop going virtual!</div>
-        <ul><li><b>Submissions</b> via <a href='https://easychair.org/conferences/?conf=wecare2020' target='_blank'>EasyChair</a>:<br/> <del>July 2nd</del> August 6th, 2020, <a href='https://t1p.de/oval' target='_blank'>anywhere on earth</a>.</li>
-        <li><b>Notifications</b>:<br/><del>July 23rd</del> TBA, 2020</li>
-        <li><b>Camera-Ready Versions</b>:<br/><del>August 7th</del> TBA, 2020</li>
-        <li><b>Workshop Day</b>:<br/> October 5th(?), 2020</li></ul>"
+- text: "<ul><li><b>Early Bird Submissions</b>:<br/> <del>July 2nd</del> August 6th.</li>
+        <li><b>Early Bird Notifications</b>:<br/><del>July 23rd</del> August 14th</li>
+        <li><b>Late Submissions via <a href='https://easychair.org/conferences/?conf=wecare2020' target='_blank'>EasyChair</a></b>:<br/> September 25th, <a href='https://t1p.de/2thy' target='_blank'>anywhere on earth</a></li>
+        <li><b>Late Notifications</b>:<br/>September 29th</li>
+        <li><b>Camera-Ready Versions and Videos</b>:<br/>October 1st</li>
+        <li><b>Workshop Schedule</b>: <br/> Four 60-minute blocks between October 5th and 7th (tentative)</li></ul>"
+#<li><b>Camera-Ready Versions</b>:<br/><del>August 7th</del> , 2020</li>
 # <!-- * **Early Registration**: August 19th??, 2020 -->
 # <!-- * **Submission of Presentations**: Ocotber 1st, 2020 -->
 
@@ -74,8 +76,8 @@ If you see problems with these tools, feel free to contact us (see [Organizers](
 We plan to use [Zoom](https://zoom.us/) as video-conferencing. It will be used throughout the workshop to connect the participants. We will also use the break-out feature when we need to split our participants into smaller groups for discussions. 
 
 ### Whiteboard 
-We plan to use [Miro](https://miro.com/) as online whiteboard. 
+We plan to use [Mural](https://mural.co/) as online whiteboard. 
 It will be used to collect and cluster ideas from participants in the interactive parts of the workshop. 
 
 ### (Asynchronous) Communication
-We did not decide for a communication platform for discussion between the sessions or after the workshop. We would like to use the software that MobileHCI is also using. This is probably going to be [Slack](https://slack.com/) or [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/). 
+We plan to use [Slack](https://slack.com/) as communication platform for discussion between the sessions or after the workshop. 

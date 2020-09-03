@@ -1,0 +1,46 @@
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2d89ef">
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="theme-color" content="#ffffff">
+
+<!-- replace timezones-->
+<script>
+    function customUtcToLocalTime(timeslotStr, id_) {
+        // convert to cest
+        let timeslotDate = new Date(Date.parse(timeslotStr));
+        let slot = document.getElementById(id_);
+        let hour = timeslotDate.getHours();
+        if (hour < 10) {
+            hour = "0" + hour;
+        } else {
+            hour = "" + hour;
+        }
+        let minute = timeslotDate.getMinutes();
+        if (minute < 10) {
+            minute = "0" + minute;
+        } else {
+            minute = "" + minute;
+        }
+
+        // offset
+        let offset = -1*Math.round(new Date().getTimezoneOffset()/0.6)/100.;
+        if (offset > 0) {
+            offset = "UTC+"+offset;
+        } else  if (offset < 0) {
+            offset = "UTC"+offset;
+        } else {
+            offset = "UTC";
+        }
+        
+        let weekday = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'][timeslotDate.getDay()]
+        slot.innerHTML = "<i><small><br/>(In your timezone: " + weekday + ", " + hour+":"+minute+ " " + offset+")</small></i>" ;
+    }
+
+</script>
+
+<!-- end custom head snippets -->
