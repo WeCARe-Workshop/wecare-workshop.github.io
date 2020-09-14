@@ -76,7 +76,7 @@ If you see problems with these tools, feel free to contact us (see [Organizers](
 We plan to use [Zoom](https://zoom.us/) as video-conferencing. It will be used throughout the workshop to connect the participants. We will also use the break-out feature when we need to split our participants into smaller groups for discussions. 
 
 ### Whiteboard 
-We plan to use [Mural](https://mural.co/) as online whiteboard. 
+We plan to use [Miro](https://miro.com/) as online whiteboard. 
 It will be used to collect and cluster ideas from participants in the interactive parts of the workshop. 
 
 ### (Asynchronous) Communication
