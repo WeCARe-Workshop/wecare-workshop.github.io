@@ -49,7 +49,7 @@ Between this and the next session, participants will be asked to add their most 
 </script>
 
 ## Tuesday, 14-15 CEST -- "New Ideas" <span id="slot3"></span>
-After an energeizer, we will prioritize the identified challenges. 
+After an energizer, we will prioritize the identified challenges. 
 Afterward, participants are asked to prototype interaction techniques, methods, or scenarios to understand the research challenges or possible solutions better. 
 The participants are free to use any materials and tools they may have available. 
 Considering MobileHCI's goal of being a sustainable conference, we encourage the use of cheap materials that participants can find in their household and use the “Quick and Dirty Prototyping” technique (see above Figure, right). 
