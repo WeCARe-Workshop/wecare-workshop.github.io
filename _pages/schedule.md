@@ -25,7 +25,7 @@ If you see problems or have an idea on how to make the workshop a good (remote) 
 
 <!-- {% include figure image_path="/assets/images/morningcafe.jpg" alt="A snapshot of a table during a World Café." caption="A snapshot of a table during a World Café." %} -->
 
-{% include gallery caption="Examples for the interactive parts of the workshop: collecting ideas using digital sticky notes in Mural (left) and the result of a quick prototype (right)." %}
+{% include gallery caption="Examples for the interactive parts of the workshop: collecting ideas using digital sticky notes in Miro (left) and the result of a quick prototype (right)." %}
 
 ## Before the Conference
 <!-- To this end, there are presentations, hands-on activities, and group discussions planned.  -->
@@ -35,15 +35,15 @@ Before the conference, participants will receive a welcoming video-message conta
 
 After a short welcome, we will start the workshop with the submitted three-minute videos from the participants (see [Video Format](/Participate#video-format) for instructions), followed by discussions. 
 The videos will be available on this website but also be shown live in the video-conference using Zoom. 
-This introduction will be followed by a brainwriting session in Mural that can be finished offline to collect ideas and challenges for inclusive interactions. 
+This introduction will be followed by a brainwriting session in Miro that can be finished offline to collect ideas and challenges for inclusive interactions. 
 <script>
   customUtcToLocalTime("2020-10-05 10:00 UTC+2","slot1");
 </script>
 
 ## Monday, 14-15 CEST -- "Identify Challenges" <span id="slot2" ></span>
-We want to establish a common understanding of the key challenges in current AV-VRU research. We will revise open questions from submitted workshop papers to derive topics for a break-out session. The participants will be split into multiple groups that discuss a topic for eight minutes in a Zoom session using Mural as online whiteboard to write down and group ideas. Possible subjects might be: “technology for AV-VRU communication including mobile devices”, “identification of cultural differences in traffic”, or “inclusive interfaces for impaired people”. The groups switch every eight minutes. After 24 minutes, each group presents the outcome of the table they are sitting at in about five minutes. 
+We want to establish a common understanding of the key challenges in current AV-VRU research. We will revise open questions from submitted workshop papers to derive topics for a break-out session. The participants will be split into multiple groups that discuss a topic for eight minutes in a Zoom session using Miro as online whiteboard to write down and group ideas. Possible subjects might be: “technology for AV-VRU communication including mobile devices”, “identification of cultural differences in traffic”, or “inclusive interfaces for impaired people”. The groups switch every eight minutes. After 24 minutes, each group presents the outcome of the table they are sitting at in about five minutes. 
 
-Between this and the next session, participants will be asked to add their most important research challenges to a dedicated Mural board. The workshop organizers will cluster the presented findings for the next part of the workshop.
+Between this and the next session, participants will be asked to add their most important research challenges to a dedicated Miro board. The workshop organizers will cluster the presented findings for the next part of the workshop.
 <script>
   customUtcToLocalTime("2020-10-05 14:00 UTC+2","slot2");
 </script>
