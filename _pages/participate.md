@@ -30,7 +30,7 @@ You have three options for participation:
 * Only submit a three-minute video (see below)
 * Participate without presenting your position (no submissions needed). 
 
-Please register for the workshop via the MobileHCI website: https://mobilehci.acm.org/2020/registration/. 
+Please register for the workshop via the [MobileHCI website: mobilehci.acm.org/2020/registration/](https://mobilehci.acm.org/2020/registration/). 
 Based on the feedback we received so far, the process may be a bit unclear. These are the steps required if you want to participate in the workshop, but not at the MobileHCI conference (though we highly recommend also to attend the conference ;) ): 
 1. Click the link at the top of the page. It sends you to the registration via cvent.com. 
 1. Select if you are an ACM member or not at the bottom
