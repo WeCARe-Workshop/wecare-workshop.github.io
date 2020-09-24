@@ -33,10 +33,10 @@ You have three options for participation:
 Please register for the workshop via the [MobileHCI website: mobilehci.acm.org/2020/registration/](https://mobilehci.acm.org/2020/registration/). 
 Based on the feedback we received so far, the process may be a bit unclear. These are the steps required if you want to participate in the workshop, but not at the MobileHCI conference (though we highly recommend also to attend the conference ;) ): 
 1. Click the link at the top of the page. It sends you to the registration via cvent.com. 
-1. Select if you are an ACM member or not by clicking the corresponding button at the bottom
+1. Select if you are an ACM member or not by clicking the corresponding button at the bottom.
 1. Enter your name and e-mail address. If you are an ACM member, this needs to be the primary address of your ACM account. If you are not an ACM member, you'll need to select if you are a student ("Student Non-Member") or not ("Non-Member").
-1. Enter data about your affiliation, title, and contact details
-1. Enter personal information and preferences
+1. Enter data about your affiliation, title, and contact details.
+1. Enter personal information and preferences.
 1. If you want only to attend the workshop: select "Free Registration".
 1. Our workshop is "Workshop 8". **Select the "WS8" option for 30€**, not the one for 80€, even if you have an accepted submission at our workshop. 
 1. Now you'll get a summary and can proceed to the payment. 
