@@ -24,9 +24,26 @@ The workshop emphasizes cultural differences, diversity, and inclusive design so
 We welcome researchers and practitioners with interest in accessible technology, interactive technologies for children, seniors, or people with impairments, or automotive user interfaces. Specifically, we want to reach those developing mobile interfaces for traffic participants (e.g., pedestrians, or cyclists), inclusive interfaces (addressing, e.g., visually impaired people), or external human-machine interfaces for AVs. 
 <!-- We will reach out to the community via social media channels (e.g., Twitter, Facebook, or LinkedIn), mailing lists (e.g., GI, or ACM SIGCHI), and at the AutomotiveUI conference. We expect to have 15 to 20 attendees.  -->
 
+## Registration
+You have three options for participation: 
+* Submit a position paper and a three-minute video to present it (see below)
+* Only submit a three-minute video (see below)
+* Participate without presenting your position (no submissions needed). 
+
+Please register for the workshop via the MobileHCI website: https://mobilehci.acm.org/2020/registration/. 
+Based on the feedback we received so far, the process may be a bit unclear. These are the steps required if you want to participate in the workshop, but not at the MobileHCI conference (though we highly recommend also to attend the conference ;) ): 
+1. Click the link at the top of the page. It sends you to the registration via cvent.com. 
+1. Select if you are an ACM member or not at the bottom
+1. Enter your name and e-mail address. If you are an ACM member, this needs to be the primary address of your ACM account. If you are not an ACM member, you'll need to select if you are a student ("Student Non-Member") or not ("Non-Member").
+1. Enter data about your affiliation, title, and contact details
+1. Enter personal information and preferences
+1. If you want only to attend the workshop: select "Free Registration".
+1. Our workshop is "Workshop 8". **Select the "WS8" option for 30€**, not the one for 80€, even if you have an accepted submission at our workshop. 
+1. Now you'll get a summary and can proceed to the payment. 
+
 ## Paper / Video Submission
-Participants are invited to submit 3-minute videos or position papers. 
-Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted submissions will be published online** before the beginning of the workshop. 
+Participants are invited to submit three-minute videos or position papers. 
+Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted submissions will be published online** before the beginning of the workshop but not in the ACM Digital Library. 
 The generated PDF should be submitted via [EasyChair (easychair.org/conferences/?conf=wecare2020)](https://easychair.org/conferences/?conf=wecare2020). 
 
 ### Paper Format 
@@ -66,6 +83,7 @@ Potential topics to be discussed at the workshop include, but are not limited to
 * Guidelines for inclusive design from related domains, such as
   * Mobile Human-Computer Interaction
   * Human-Robot Interaction 
+
 
 ## Tools Used at the Workshop
 This workshop will be held remotely. It is important that participants test their tools and devices for a smooth event. 
