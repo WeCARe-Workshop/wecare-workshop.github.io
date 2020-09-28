@@ -119,7 +119,7 @@ author:
   #     icon: "fab fa-fw fa-instagram"
   #     url: "https://instagram.com/"
 
-announcement: "[Register for the Workshop over at MobileHCI.](https://mobilehci.acm.org/2020/registration/){: .align--left .btn .btn--info .btn--large }"
+announcement: "[Register for the Workshop via MobileHCI.](https://mobilehci.acm.org/2020/registration/){: .align--left .btn .btn--info .btn--large }"
 
 footer:
   links:
