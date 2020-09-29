@@ -8,7 +8,7 @@ sidebar:
 - title: "Deadlines"
 - text: "<ul><li><b>Early Bird Submissions</b>:<br/> <del>July 2nd</del> August 6th.</li>
         <li><b>Early Bird Notifications</b>:<br/><del>July 23rd</del> August 14th</li>
-        <li><b>Late Submissions via <a href='https://easychair.org/conferences/?conf=wecare2020' target='_blank'>EasyChair</a></b>:<br/> September 25th, <a href='https://t1p.de/2thy' target='_blank'>anywhere on earth</a></li>
+        <li><b>Late Submissions</b>:<br/> September 25th</li>
         <li><b>Late Notifications</b>:<br/>September 29th</li>
         <li><b>Camera-Ready Versions and Videos</b>:<br/>October 1st</li>
         <li><b>Workshop Schedule</b>: <br/> Four 60-minute blocks between October 5th and 7th (tentative)</li></ul>"
