@@ -37,7 +37,7 @@ After a short welcome, we will start the workshop with the submitted three-minut
 The videos will be available on this website but also be shown live in the video-conference using Zoom. 
 This introduction will be followed by a brainwriting session in Miro that can be finished offline to collect ideas and challenges for inclusive interactions. 
 <script>
-  customUtcToLocalTime("2020-10-05 10:00 UTC+2","slot1");
+  customUtcToLocalTime(2020,10,05, 8,00 ,"slot1");
 </script>
 
 ## Monday, 14-15 CEST -- "Identify Challenges" <span id="slot2" ></span>
@@ -45,7 +45,7 @@ We want to establish a common understanding of the key challenges in current AV-
 
 Between this and the next session, participants will be asked to add their most important research challenges to a dedicated Miro board. The workshop organizers will cluster the presented findings for the next part of the workshop.
 <script>
-  customUtcToLocalTime("2020-10-05 14:00 UTC+2","slot2");
+  customUtcToLocalTime(2020,10,05, 12,00 ,"slot2");
 </script>
 
 ## Tuesday, 14-15 CEST -- "New Ideas" <span id="slot3"></span>
@@ -56,7 +56,7 @@ Considering MobileHCI's goal of being a sustainable conference, we encourage the
 
 The prototypes can be finished between the sessions. 
 <script>
-  customUtcToLocalTime("2020-10-06 14:00 UTC+2","slot3");
+  customUtcToLocalTime(2020,10,06, 12,00 ,"slot3");
 </script>
 
 ## Wednesday, 14-15 CEST -- "Next Steps" <span id="slot4" ></span>
@@ -67,5 +67,5 @@ The last 15 minutes are dedicated to wrapping up the workshop’s outcomes, plan
 
 The discussion on the next steps can, of course, be continued after the workshop, e.g. in our Slack group. 
 <script>
-  customUtcToLocalTime("2020-10-07 14:00 UTC+2","slot4");
+  customUtcToLocalTime(2020,10,07, 12,00 ,"slot4");
 </script>

@@ -10,37 +10,17 @@
 
 <!-- replace timezones-->
 <script>
-    function customUtcToLocalTime(timeslotStr, id_) {
+    function customUtcToLocalTime(year, month, day, hour, minute, id_) {
         // convert to cest
-        let timeslotDate = new Date(Date.parse(timeslotStr));
+        //let timeslotDate = new Date(Date.parse(timeslotStr)); // seems to not work reliably
+        let timeslotDate = new Date();
+        timeslotDate.setUTCFullYear(year, month - 1, day);
+        timeslotDate.setUTCHours(hour, minute, 0);
+
         let slot = document.getElementById(id_);
-        let hour = timeslotDate.getHours();
-        if (hour < 10) {
-            hour = "0" + hour;
-        } else {
-            hour = "" + hour;
-        }
-        let minute = timeslotDate.getMinutes();
-        if (minute < 10) {
-            minute = "0" + minute;
-        } else {
-            minute = "" + minute;
-        }
-
-        // offset
-        let offset = -1*Math.round(new Date().getTimezoneOffset()/0.6)/100.;
-        if (offset > 0) {
-            offset = "UTC+"+offset;
-        } else  if (offset < 0) {
-            offset = "UTC"+offset;
-        } else {
-            offset = "UTC";
-        }
-        
-        let weekday = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'][timeslotDate.getDay()]
-        slot.innerHTML = "<i><small><br/>(In your timezone: " + weekday + ", " + hour+":"+minute+ " " + offset+")</small></i>" ;
+        let options = { hourCycle: 'h24', weekday: 'short', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short' };
+        slot.innerHTML = "<i><small><br/>(In your timezone: " + timeslotDate.toLocaleDateString("en-US", options) + ")</small></i>";
     }
-
 </script>
 
 <!-- end custom head snippets -->
