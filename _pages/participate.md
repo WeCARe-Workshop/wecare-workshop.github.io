@@ -11,7 +11,7 @@ sidebar:
         <li><b>Late Submissions</b>:<br/> September 25th</li>
         <li><b>Late Notifications</b>:<br/>September 29th</li>
         <li><b>Camera-Ready Versions and Videos</b>:<br/>October 1st</li>
-        <li><b>Workshop Schedule</b>: <br/> Four 60-minute blocks between October 5th and 7th (tentative)</li></ul>"
+        <li><b>Workshop Schedule</b>: <br/> Four 60-minute blocks between October 5th and 7th (see <a href='./Schedule'>Schedule</a>)</li></ul>"
 #<li><b>Camera-Ready Versions</b>:<br/><del>August 7th</del> , 2020</li>
 # <!-- * **Early Registration**: August 19th??, 2020 -->
 # <!-- * **Submission of Presentations**: Ocotber 1st, 2020 -->

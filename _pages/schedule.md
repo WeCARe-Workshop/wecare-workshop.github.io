@@ -1,6 +1,6 @@
 ---
 permalink: /Schedule
-title: "Preliminary Schedule"
+title: "Schedule"
 classes: wide
 
 # sidebar: 
@@ -19,8 +19,6 @@ gallery:
 ---
 
 Due to the measures against COVID-19, this workshop is going to be held in a virtual environment. 
-**The schedule below is a preliminary update and will probably change before the workshop.** 
-If you see problems or have an idea on how to make the workshop a good (remote) experience for everyone, please don't hesitate to let us know (preferably via e-mail, see [Organizers](/Organizers) for contact details). 
 {: .align--left .notice--danger  }
 
 <!-- {% include figure image_path="/assets/images/morningcafe.jpg" alt="A snapshot of a table during a World Café." caption="A snapshot of a table during a World Café." %} -->
