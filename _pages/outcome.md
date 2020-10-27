@@ -16,7 +16,7 @@ The following papers were accepted and presented at the workshop.
 *Elena Angeleska, Sofija Sidorenko and Paolo Pretto*
 
 **External HMI for Autonomous Buses: Results of the IQ Mobility project in preparation for Project Qatar Mobility**
-*Frida Eriksson, Angelos Malikoutis, Adeliina Aho Tarkka, Pontus Unger, Pedram Nayeri, Anders BÄckman, Maria Kougioumoutzi, Julia SÖderberg, Karolina Ingre, Sonja Troberg and Stas Krupenia*
+*Frida Eriksson, Angelos Malikoutis, Adeliina Aho Tarkka, Pontus Unger, Pedram Nayeri, Anders Bäckman, Maria Kougioumoutzi, Julia Söderberg, Karolina Ingre, Sonja Troberg and Stas Krupenia*
 
 **Automated Vehicles as Assistive Technologies: An outline of the promises and challenges of using automated vehicles to extend the safe driving of older adults with dementia**
 *Shabnam Haghzare, Jennifer L. Campos and Alex Mihailidis*
