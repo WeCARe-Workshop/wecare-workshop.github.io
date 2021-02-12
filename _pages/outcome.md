@@ -24,17 +24,19 @@ The following papers were accepted and presented at the workshop.
 [Full text as PDF](/assets/papers/HaghzareEtAl.pdf) [Presentation on Youtube](https://www.youtube.com/watch?v=jcwFmZ1C_9Y)
 
 ## Designing the Communication with Automated Vehicles: The Case of Elderly Pedestrians
-*Philip Joisten, Nina Theobald, Sarah Schwindt, Jonas Walter and Bettina Abendroth*
+*Philip Joisten, Nina Theobald, Sarah Schwindt, Jonas Walter and Bettina Abendroth*\
+[Full text as PDF](/assets/papers/JoistenEtAl.pdf) [Presentation on Youtube](https://www.youtube.com/watch?v=JlRGugx_q34)
 
 ## Central Projection Augmentation for pedestrian AV interactions
 *Vinu Kamalasanan, Monika Sester and Vinu Kamalasanan*
 
 ## Insights from a series of projects related to accessibility in an AV mobility landscape
-*Victor Malmsten Lundgren*
+*Victor Malmsten Lundgren*\
+[Full text as PDF](/assets/papers/MalmstenLundgren.pdf)
 
 ## Prosocial Interaction between Vulnerable Road Users and Automated Vehicles
 *Hatice Sahin*\
-[Full text as PDF](/assets/papers/SahinEtAl.pdf) [Presentation on Youtube](https://www.youtube.com/watch?v=5ydsxZh7oew)
+[Full text as PDF](/assets/papers/Sahin.pdf) [Presentation on Youtube](https://www.youtube.com/watch?v=5ydsxZh7oew)
 
 
 <!--- ## Publications Inspired From This Workshop
