@@ -20,7 +20,8 @@ The following papers were accepted and presented at the workshop.
 *Frida Eriksson, Angelos Malikoutis, Adeliina Aho Tarkka, Pontus Unger, Pedram Nayeri, Anders Bäckman, Maria Kougioumoutzi, Julia Söderberg, Karolina Ingre, Sonja Troberg and Stas Krupenia*
 
 ### Automated Vehicles as Assistive Technologies: An outline of the promises and challenges of using automated vehicles to extend the safe driving of older adults with dementia
-*Shabnam Haghzare, Jennifer L. Campos and Alex Mihailidis*
+*Shabnam Haghzare, Jennifer L. Campos and Alex Mihailidis*\
+[Full text as PDF](/assets/papers/HaghzareEtAl.pdf) [Presentation on Youtube](https://www.youtube.com/watch?v=jcwFmZ1C_9Y)
 
 ## Designing the Communication with Automated Vehicles: The Case of Elderly Pedestrians
 *Philip Joisten, Nina Theobald, Sarah Schwindt, Jonas Walter and Bettina Abendroth*
