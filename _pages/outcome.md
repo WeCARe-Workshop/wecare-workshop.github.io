@@ -33,7 +33,8 @@ The following papers were accepted and presented at the workshop.
 *Victor Malmsten Lundgren*
 
 ## Prosocial Interaction between Vulnerable Road Users and Automated Vehicles
-*Hatice Sahin*
+*Hatice Sahin*\
+[Full text as PDF](/assets/papers/SahinEtAl.pdf) [Presentation on Youtube](https://www.youtube.com/watch?v=5ydsxZh7oew)
 
 
 <!--- ## Publications Inspired From This Workshop
