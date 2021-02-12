@@ -31,7 +31,7 @@ The following papers were accepted and presented at the workshop.
 *Vinu Kamalasanan, Monika Sester and Vinu Kamalasanan*
 
 ## Insights from a series of projects related to accessibility in an AV mobility landscape
-*Victor Malmsten Lundgren*\
+*Victor Fabricius (f.d. Malmsten)*\
 [Full text as PDF](/assets/papers/MalmstenLundgren.pdf)
 
 ## Prosocial Interaction between Vulnerable Road Users and Automated Vehicles
