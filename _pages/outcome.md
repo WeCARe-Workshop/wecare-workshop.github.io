@@ -28,7 +28,8 @@ The following papers were accepted and presented at the workshop.
 [Full text as PDF](/assets/papers/JoistenEtAl.pdf) [Presentation on Youtube](https://www.youtube.com/watch?v=JlRGugx_q34)
 
 ## Central Projection Augmentation for pedestrian AV interactions
-*Vinu Kamalasanan, Monika Sester and Vinu Kamalasanan*
+*Vinu Kamalasanan and Monika Sester*\
+[Full text as PDF](/assets/papers/KamalasananSester.pdf) [Presentation on Youtube](https://www.youtube.com/watch?v=fTi3WkxjkCU)
 
 ## Insights from a series of projects related to accessibility in an AV mobility landscape
 *Victor Fabricius (f.d. Malmsten)*\
