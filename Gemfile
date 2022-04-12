@@ -38,3 +38,4 @@ gem "wdm", ">= 0.1.1", :install_if => Gem.win_platform?
 
 # fix issues with old kramdown
 gem "kramdown", ">= 2.3.1"
+gem "nokogiri", ">= 1.13.4"
