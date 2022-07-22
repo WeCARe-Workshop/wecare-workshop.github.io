@@ -28,7 +28,7 @@ description: "Workshop on Inclusive Communication between Automated Vehicles and
 #github_username:  jekyll
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -61,7 +61,7 @@ search: false
 # Build settings
 markdown: kramdown
 #remote_theme: mmistakes/minimal-mistakes
-remote_theme: https://github.com/mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -90,7 +90,7 @@ plugins:
   # - jekyll-gist
   - jekyll-feed
   # - jemoji
-  # - jekyll-include-cache
+  - jekyll-include-cache
 
 author:
   #name   : "WeCARe"
